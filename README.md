@@ -1,14 +1,10 @@
-<div style="display:flex;flex-direction=row">
-  <div width="200">
-    <h1 align="left">Hi 👋, I'm Sangam Pokharel</h1>
-<h3 align="left">🍎 Passionate about all things Apple! 📱  </h3>
-<h3 align="left">🚀 Transitioning from native Android to iOS Swift/SwiftUI</h3>
-<h3 align="left">📦 Ready to create seamless native iOS experiences</h3>
-<h3 align="left"> 🌟 Let's build something amazing together!</h3>
-  </div>
+<h1 align="center">Hi 👋, I'm Sangam Pokharel</h1>
+<h3 align="center">🍎 Passionate about all things Apple! 📱  </h3>
+<h3 align="center">🚀 Transitioning from native Android to iOS Swift/SwiftUI</h3>
+<h3 align="center">📦 Ready to create seamless native iOS experiences</h3>
+<h3 align="center"> 🌟 Let's build something amazing together!</h3>
 
-  <div>
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  align="right" width="200" alt="Coding" />
+<!-- <img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  align="right" width="200" alt="Coding" /> -->
     
   </div>
   
