@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangam Pokharel</h1>
 <h3 align="center">🍎 Passionate about all things Apple! 📱  </h3>
-<h3 align="center">🚀 Transitioning from native Android to iOS Swift/SwiftUI</h3>
 <h3 align="center">📦 Ready to create seamless native iOS experiences</h3>
 <h3 align="center"> 🌟 Let's build something amazing together!</h3>
 
